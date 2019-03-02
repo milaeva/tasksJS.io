@@ -3,6 +3,10 @@
 }
 body{
   margin: 100px;
+  border: 5px solid #08db2f;
+  padding: 15px;
+  width: 625px;
+  height: 625px;
 }
 .field{
   width: 500px;
@@ -10,7 +14,8 @@ body{
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
-  background-color: #cccccc;
+  background-color: #f7b66c;
+
 }
 .excel{
   width: 50px;
@@ -25,9 +30,10 @@ body{
 .head{
   background: url(img/cat2.jpg);
   background-size: cover;
-  border-radius:10%;
+  border-radius:50%;
 }
 .mouse{
   background: url(img/mouse.jpg);
   background-size: cover;
+  border-radius: 20%;
 }
