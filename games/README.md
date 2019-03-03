@@ -1,3 +1,5 @@
+[my first game SNAKE](https://milaeva.github.io/tasksJS.io/games/index.html)
+
 ##### The creation of the game "Snake":
 
 ###### Create a field; split the field to the cells; assign coordinates to each cell.
